@@ -1,0 +1,16 @@
+use-sort:
+    group:
+        - _main
+        - Synergy
+    group-type: each
+    sort-type: alph
+    sort-direction: asc
+
+header: |
+    /*
+     * This file is part of the Synergy package.
+     *
+     * Copyright (c) 2015-2016 Synergy.
+     *
+     * @author Maksim Karpychev <mkarpychev@synergy.ru>
+     */
